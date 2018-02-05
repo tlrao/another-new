@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "BUEmobile",
-    "siteurl": "https://learn.bue.edu.eg",
+    "site": "https://learn.bue.edu.eg",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
