@@ -54,7 +54,8 @@ $mm-progress-bar-height: 5px !default;
  * App Branding
  */
 .mm-bglogo {
-  background-imag: white; /* Change this to add a bg image or change color */
+  background-imag: $mm-color-init-screen; /* Change this to add a bg image or change color */
+  background-color: white;
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;

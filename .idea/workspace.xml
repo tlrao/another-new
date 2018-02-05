@@ -27,8 +27,8 @@
       <file leaf-file-name="mm.bundle.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build/mm.bundle.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+            <state relative-caret-position="-272">
+              <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -48,6 +48,7 @@
       <find>mm-logo</find>
       <find>$mm-color-init-screen</find>
       <find>back</find>
+      <find>orange</find>
       <find>moodle_white</find>
     </findStrings>
   </component>
@@ -168,12 +169,12 @@
       <option name="presentableId" value="Default" />
       <updated>1517736304044</updated>
       <workItem from="1517736305492" duration="896000" />
-      <workItem from="1517740038166" duration="9232000" />
+      <workItem from="1517740038166" duration="9989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10128000" />
+    <option name="totallyTimeSpent" value="10885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -490,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build/mm.bundle.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        <state relative-caret-position="-272">
+          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="40" />
           <folding />
         </state>
       </provider>
