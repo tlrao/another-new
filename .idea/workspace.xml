@@ -107,8 +107,8 @@
       <file leaf-file-name="frontpage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addons/frontpage/templates/frontpage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="221">
+              <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -494,7 +494,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.site.html">
+  <component name="RunManager" selected="JavaScript Debug.frontpage.html">
+    <configuration name="frontpage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUEAPP/addons/frontpage/templates/frontpage.html" />
     <configuration name="iframe.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUEAPP/core/components/sidemenu/templates/iframe.html" />
     <configuration name="site.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BUEAPP/core/components/login/templates/site.html" />
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -566,14 +567,16 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.site.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.iframe.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.frontpage.html" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.site.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.iframe.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.frontpage.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.site.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.iframe.html" />
       </list>
     </recent_temporary>
   </component>
@@ -592,12 +595,12 @@
       <updated>1517736304044</updated>
       <workItem from="1517736305492" duration="896000" />
       <workItem from="1517740038166" duration="18679000" />
-      <workItem from="1517905919617" duration="19846000" />
+      <workItem from="1517905919617" duration="20321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42882000" />
+    <option name="totallyTimeSpent" value="43357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1040,8 +1043,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/addons/frontpage/templates/frontpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding />
         </state>
       </provider>
