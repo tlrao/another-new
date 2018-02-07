@@ -4863,7 +4863,7 @@ a.subdued {
   background-image: none; }
 
 .tabs-striped.tabs-background-royal .tabs {
-  background-color: #3e4f95 ;
+  background-color: #f98012;
   background-image: none; }
 
 .tabs-striped.tabs-background-dark .tabs {
@@ -5112,7 +5112,7 @@ a.subdued {
 
 .tabs-background-royal .tabs,
 .tabs-background-royal > .tabs {
-  background-color: #3e4f95 ;
+  background-color: #f98012;
   background-image: linear-gradient(0deg, #dd6c06, #dd6c06 50%, transparent 50%);
   border-color: #dd6c06; }
 
