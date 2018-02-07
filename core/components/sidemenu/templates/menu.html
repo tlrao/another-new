@@ -32,21 +32,21 @@
                     <li class="item text-center" ng-if="(!handlers || !handlers.length) && !areNavHandlersLoaded()">
                         <ion-spinner></ion-spinner>
                     </li>
-                    <!--<li ng-repeat="handler in handlers | orderBy:'-priority'" ng-controller="handler.controller" class="mm-sidemenu-handler {{class}}">
+                    <li ng-repeat="handler in handlers | orderBy:'-priority'" ng-controller="handler.controller" class="mm-sidemenu-handler {{class}}">
                         <a menu-close class="item item-icon-left" ui-sref="{{state}}" title="{{title | translate}}" ng-class="{'item-icon-right': loading}">
                             <i class="icon {{icon}}"></i> {{title | translate}}
                             <span ng-show="!loading && badge" class="badge badge-positive">{{badge}}</span>
                             <ion-spinner ng-if="loading" class="icon"></ion-spinner>
                         </a>
-                    </li>-->
-                    <li ng-repeat="item in customItems track by $index" class="mm-sidemenu-customitem" ng-if="item">
+                    </li>
+                    <!--<li ng-repeat="item in customItems track by $index" class="mm-sidemenu-customitem" ng-if="item">
                         <a ng-if="item.type != 'embedded'" menu-close class="item item-icon-left" ng-href="{{item.url}}" mm-link in-app="{{item.type == 'inappbrowser'}}" capture-link="{{item.type == 'app'}}" title="{{item.label}}">
                             <i class="icon {{item.icon}}"></i>{{item.label}}
                         </a>
                         <a ng-if="item.type == 'embedded'" menu-close class="item item-icon-left" ui-sref="site.iframe-view({title: item.label, url: item.url})" title="{{item.label}}">
                             <i class="icon {{item.icon}}"></i>{{item.label}}
                         </a>
-                    </li>
+                    </li>-->
                     <li ng-if="showWeb">
                         <a menu-close class="item item-icon-left" ng-href="{{siteinfo.siteurl}}" mm-link auto-login="yes" title="{{ 'mm.sidemenu.website' | translate}}">
                             <i class="icon ion-earth"></i>{{ 'mm.sidemenu.website' | translate}}
