@@ -88,7 +88,7 @@
         <param name="PHOTOLIBRARY_USAGE_DESCRIPTION" value="We'd like to access your photo library to let you pick a photo"/>
         <param name="MICROPHONE_USAGE_DESCRIPTION" value="We'd like to access your microphone to let you record an audio"/>
     </gap:plugin>
-        <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5" />
+       
     <gap:plugin name="cordova-plugin-device" source="npm" version="1.1.6" />
     <gap:plugin name="cordova-plugin-file" source="npm" version="4.3.3" />
     <gap:plugin name="cordova-plugin-file-transfer" source="npm" version="1.6.3" />
@@ -100,7 +100,7 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" version="4.0.3" />
     <gap:plugin name="cordova-universal-clipboard" source="npm" version="0.1.0" />
     <gap:plugin name="nl.kingsquare.cordova.background-audio" source="npm" version="1.0.1" />
-
+<gap:plugin name="de.appplant.cordova.plugin.local-notification" />
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.9.2">
         <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
@@ -109,7 +109,7 @@
     </gap:plugin>
     <gap:plugin name="ionic-plugin-keyboard" source="npm" version="2.2.1" />
     <gap:plugin name="cordova-plugin-zip" source="npm" version="3.1.0" />
-    <gap:plugin name="cordova-plugin-local-notifications-mm" source="npm" />
+    
     <gap:plugin name="net.tunts.webintent" spec="https://github.com/Tunts/WebIntent.git" source="git" />
     <gap:plugin name="ch.ti8m.documenthandler" spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
 
